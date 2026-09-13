@@ -99,10 +99,4 @@ Then open `http://127.0.0.1:5000/` in a browser.
 
 Contributions along these lines are welcome.
 
-## Acknowledgments
 
-Project structure and workflow adapted from a public end-to-end NLP tutorial on Amazon review sentiment analysis with a Flask front end. Code in this repo is an original reconstruction of the described workflow, not a copy of the original source.
-
-## License
-
-Add a license of your choice (e.g. MIT) before publishing this repository.
